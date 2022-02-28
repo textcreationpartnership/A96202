@@ -1,0 +1,158 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Welchmens lamentation and complaint, for te losse of her great towne and city of Hereford, which taken from her by her creat enemy, Sir William Waller; and for te losse of her creat cosin and commander, M. Fitz-William Conningsby, governour of her said creat city of Hereford.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1643</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A96202</idno>
+            <idno type="STC">Wing W1341B</idno>
+            <idno type="STC">Thomason E101_12</idno>
+            <idno type="STC">ESTC R21087</idno>
+            <idno type="EEBO-CITATION">99869623</idno>
+            <idno type="PROQUEST">99869623</idno>
+            <idno type="VID">155885</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A96202)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 155885)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 18:E101[12])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Welchmens lamentation and complaint, for te losse of her great towne and city of Hereford, which taken from her by her creat enemy, Sir William Waller; and for te losse of her creat cosin and commander, M. Fitz-William Conningsby, governour of her said creat city of Hereford.</title>
+               </titleStmt>
+               <extent>[8] p. : ill.  </extent>
+               <publicationStmt>
+                  <publisher>s.n.]Printed in te yeer (her thinks) of her utter Testruction,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1643.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication from Wing.</note>
+                  <note>Annotation on Thomason copy: "May 10th".</note>
+                  <note>Title page contains illustration.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Coningsbie, Fitzwilliam, d. 1666 --  Early works to 1800.</term>
+               <term>Waller, William, --  Sir, 1597?-1668 --  Early works to 1800.</term>
+               <term>Welsh language --  Humor --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Campaigns --  Early works to 1800.</term>
+               <term>Hereford (England) --  History --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-11</date>
+            <label>Jayne Henley</label>Sampled and proofread</change>
+         <change>
+            <date>2011-11</date>
+            <label>Jayne Henley</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:155885:1" rendition="simple:additions"/>
+            <p>THE Welchmens Lamentation AND Complaint, for te loſſe of her great Towne and City of HEREFORD, Which was taken from her by her creat enemy, Sir WILLIAM WALLER; and for te loſſe of her creat Coſin and Commander, M. <hi>Fitz-William Conningsby,</hi> Governour of her ſaid creat City of <hi>Hereford.</hi>
+            </p>
+            <figure/>
+            <p>Printed in te yeer (her thinks) of her utter Teſtruction. 1643.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:155885:2"/>
+            <pb facs="tcp:155885:2"/>
+            <head>The VVelchmans Lamentation for the loſſe of her creat Town, and City of <hi>Hereford.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">W</seg>Hen her was peaten in Teane Foreſt pi her teadly foe, Sir William Wal<g ref="char:EOLhyphen"/>ler, her was thought tat if her could keep her head and pody together till her got to Hereford to her hardy coſins and countrey-men there, her ſhould pe in creat ſafe<g ref="char:EOLhyphen"/>ty and ſecurity, eſpecially when her was infor<g ref="char:EOLhyphen"/>med her enemy was gone from her porders, and marched towards Oxford: for ten her was thought never to have ſeen her more in her own countrey, however not pefore her ſhould pe ſo ſtrong as to reſiſt her, and ſave her ſweet life from her ſword, tat might make a ſeparation be<g ref="char:EOLhyphen"/>tween tat and te pody: put O Hone, her expe<g ref="char:EOLhyphen"/>ctation was quite fruſtrate, and her was decei<g ref="char:EOLhyphen"/>ved; for when her was think leaſt of her com<g ref="char:EOLhyphen"/>ing, her heard a ſtrange noiſe, of Drums and Cuns apout te town, te very voice of te Cuns put her into a thouſand deſperations, her could
+<pb facs="tcp:155885:3"/>not tell which way to petake her ſelfe, nor how with any courage to run away from her teadly adverſaries ſo near her: to fight her was not a<g ref="char:EOLhyphen"/>ble, for her heart was tead pefore, even when her firſt heard of their approach: in this deſpe<g ref="char:EOLhyphen"/>rate caſe her was conſtrained to call to her a Councell of Souldiers, called a Councell of War, which her had had too much on pefore; and indeed could never apide te ſame from te time of her nativity; but neceſsity has no law nor liberty neither in her countrey, wherefore nature directed her to ſave her ſweet life pi one means or other, te beaſts will do ſo; put rather ten her would turn to her foes, her would die; upon which her reſolution after her had con<g ref="char:EOLhyphen"/>gregated her coſins and countrey-men, prethren ſouldiers, her fell into theſe inſuing conſultati<g ref="char:EOLhyphen"/>ons, and her ſelf peing accounted te wiſeſt in te Senate, her was teſired to teliver her ſence, what her thought beſt to pe done for te preſent to ſave her ſelf without fighting, if it were poſsible, and if not, nor no wayes for her to run away, ten to propound upon what contitions her ſhould yeeld to her enemy, upon which after much in<g ref="char:EOLhyphen"/>treaty knowing her ſelfe to have beene an old ſouldier at her houſe in her owne countrey, put
+<pb facs="tcp:155885:3"/>never in any fight till Teane pattell (where her was pitifully peaten) her was te more willing to performe their deſires, preſuming upon her owne experience, and terefore her propounded to their grave conſiderations teſe particulars following: viz.</p>
+            <p n="1">1 Let her adviſe her teer coſins and coun<g ref="char:EOLhyphen"/>trey-men not to adventure their perſons out of te town, put make te ſame her ſafety, and now &amp; ten let pullets flie out from te houſes among her enemies, and if her can make her proviſion laſt till ſome helpe and relief may pe ſent pi her coſins in Wales, and ſo let her enemies waſte teir pullets and powter in vaine, or with little diſadvantage to her.</p>
+            <p n="2">2 Let her privately make her friends ac<g ref="char:EOLhyphen"/>quainted with her wants, and need of help at tis preſent againſt her adverſaries, pi which tey may ſend her reliefe te ſooner, put if her could procure any of te Engliſh Forces to come to her aſsiſtance, her doubted not put her ſhould pi fighting make her party cood with her foes, put her touts her own countrey-men will not adventure teir precious plood in ſo deſperate a combate as muſt make her enemies leave te town, for tey pe very fearfull to heare te ſound
+<pb facs="tcp:155885:4"/>ofte Cuns, and many of tem her ſcares, will tie with te conceit tereof, pefore tey can come to her aid.</p>
+            <p n="3">3 If no aſsiſtance come to her in time, ten her ſence is, Tat her may endeavour privatly in to night at ſome ſecret place of te town, to run a<g ref="char:EOLhyphen"/>way with her head on her ſhoulders, and if her can conveniently carie away any of her prog, to take te ſame away with her, tat her foes may have no advantage tereby when tey come into te town, and her would alſo if her could carie away with her her coods and arms.</p>
+            <p n="4">4 If her may not with ſafety effect any of theſe things, ten her muſt pe conſtrained to yeeld up her town upon teſe conditions, and terefore her conceives it necaſſary to propound to her enemies teſe Propoſitions following, which being granted, her wilbe willing to leave te town, and ſave her life pi returning into her own countrey, where if once her has te fortune put to return, her will ſee all war and fighting at te Tevill, pefore her will adventure her ſelfe in ſuch toings again, for her perceives her has had no ſucceſſe in all her enterprizes according to her expectation; for her was think to have cot<g ref="char:EOLhyphen"/>ten creat ſtore of goods, and made her ſelf rich
+<pb facs="tcp:155885:4"/>with te ſpoiles of te Engliſh put her was decei<g ref="char:EOLhyphen"/>ved <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rein, <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> conditions for te ſurrendring up her town which her would have condeſcended unto, are teſe enſuing, viz.</p>
+            <p n="1">1 That her may have free liberty to co out of te town with her arms and ammunition, &amp; pe conducted into her own countrey with a Paſſeport for her honeſt cariage when her ſhall be paſt te feare of her enemies, leſt her ſhould ſteal from her neighpour any coods, for her hands have been addicted to teevery, tat her doubts her ſhall not leave it ſo long as her live.</p>
+            <p n="2">2 That her may have liperty to carry with her her pelly timber, as her cooſe, pacon, ſheeſe, leek, poultrey, and all her prog to keep her alive and honeſt in her journey and march, and carri<g ref="char:EOLhyphen"/>ages allowed her for that purpoſe.</p>
+            <p n="3">3 That her maimed coſins and countrey<g ref="char:EOLhyphen"/>men, and thoſe that are lamed in te fight, may pe left in te town till tey pe recovered of their health, and able to travell into their owne countrey.</p>
+            <p n="4">4 That her with all her fellow Officers may pepardoned and exempted from future queſti<g ref="char:EOLhyphen"/>oning and calling to account for her treaſ<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ca<g ref="char:EOLhyphen"/>ble plots and actions againſt her countrey <gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>d
+<pb facs="tcp:155885:5"/>te Engliſh people, and her roppery and pilla<g ref="char:EOLhyphen"/>ging of tem, contrary to te Lawes of te King<g ref="char:EOLhyphen"/>dome, and againſt her owne liperty and free<g ref="char:EOLhyphen"/>dome, for te which her poſterity will curſe her in time to come, when her ſhall bee tead and puried.</p>
+            <p>If all theſe things be granted, her will go in<g ref="char:EOLhyphen"/>to her own countrey, and pe jocund with her teer wife Shone, and her ſhildren, which was call tem Shinkin ap Evan, and Randall ap Mor<g ref="char:EOLhyphen"/>gan, and live hereafter (if her enemies will let her alone) in peace and quiet, put if her cannot obtain of her ſoes teſe conditions, ten her muſt take her fortune as it fals, whether i be to be hanged, killed, or impriſoned, or made ſlaves to her adverſaries, te very conceit of either hath al<g ref="char:EOLhyphen"/>moſt ſtruck her with teath already, then muſt her take up her mourning ſong to the tune of O Hone, &amp; ſigh out her life with ſorrow, that her Welch plood ſo hot of nature, tat it were able to fire mountains, and boyle te ſea like a caul<g ref="char:EOLhyphen"/>dron in her conceit, and tat her ſelf was ſlay multitudes of armed men, ſhould be now con<g ref="char:EOLhyphen"/>fined to te pleaſure of her foes, who if her were put with tem in te field, her could deſtroy tem with te preath of her pack parts as ſoone as pi fighting.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
